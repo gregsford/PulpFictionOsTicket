@@ -1,4 +1,5 @@
-<img src="pf.jpg">
+<div align="center">
+  <img src="pf.jpg">
 <img src="1.png">
 <img src="2.png">
 <img src="3.png">
@@ -58,6 +59,6 @@ for he is truly his brother's keeper and the finder of lost children.
 And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy My brothers. 
 And you will know I am the Lord when I lay My vengeance upon you."
 <i>Just not a good idea...</i>
-
+</div>
 
 
