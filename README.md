@@ -2,11 +2,32 @@
   <img src="pf.jpg">
   
   <h1>Pulp Fiction osTicket</h1>
-  <h3><i>Marcellus Wallace has a new way of handling his business... Help Desk tickets!</i></h3>
+  <h2><i>Marcellus Wallace has a new way of handling his business... Help Desk tickets!</i></h2>
   <br>
   <p>For this demonstration I decided to base an open source ticket system and applied it to the movie Pulp Fiction.  
 I will walkthrough the process of setting up OsTicket through virtual machines in a cloud environment using Microsoft Azure.</p>
-  
+
+<h3>Environments and Technologies Used:</h3>
+<ul>
+<li>Microsoft Azure</li>
+<li>osTicket software</li>
+<li>Remote Desktop</li>
+<li>HeidiSQL</li>
+</ul>
+
+<h3>Operating Systems Used:</h3>
+<ul>Windows 10</ul>
+
+<h4>Step 1 - Setting up an environment in Microsoft Azure.</h4>
+<p>In this step I set up a Resource Group and create a virtual machine.</p> 
+
+<h4>Step 2 - Setting up osTicket software.</h4>
+<p>Using resources from CourseCareers IT course, I set up the osTicket ticket environment.</p>
+
+<h4>Step 3 - Adding Admins and Agents.</h4>
+<p>Now that we are all set up, the gangsters need to start putting in requests to Marsellus Wallace for their needs. 
+So I set up some Admins who have control of SLA.</p>
+
 <img src="1.png">
 <img src="2.png">
 <img src="3.png">
@@ -24,41 +45,20 @@ I will walkthrough the process of setting up OsTicket through virtual machines i
 <img src="15.png">
 <img src="16.png">
 <img src="17.png">
-<img src="18.png">
 
-***2***Environments and Technologies Used
-Microsoft Azure
-osTicket software
-Remote Desktop
-
-
-***2***Operating Systems Used
-Windows 10
-
-***3***
-Step 1 - Setting up an environment in Microsoft Azure.
-In this step I set up a Resource Group and create a virtual machine. 
-
-Step 2 - Setting up osTicket software.
-Using resources from CourseCareers IT course, I set up the osTicket ticket environment.
-
-Step 3 - Adding Admins and Agents.
-Now that we are all set up, the gangsters need to start putting in requests to Marsellus Wallace for their needs. 
-So I set up some Admins who have control of 
-SLA
-
-Step 4 - Finally, undoing what we just built up.
-With Microsoft Azure, you will have to pay for what you use unless you have credits when you initially sign up.
+<h4>Final Step: Deleting our project.</h4>
+<p>With Microsoft Azure, you will have to pay for what you use unless you have credits when you initially sign up.
 However when you keep your environment running it'll cost you. 
 So essentially here we go back into the Azure and delete our virtual machines and resource group.
-Make sure you delete it all.  
-The last thing you want to do is make a mistake and have Jules Winnfield knocking on your door at 7am and begin to recite 
+Make sure you delete it all.</p>  
+<img src="18.png">
+<p>The last thing you want to do is make a mistake and have Jules Winnfield knocking on your door at 7am and begin to recite 
 "The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. 
 Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of the darkness, 
 for he is truly his brother's keeper and the finder of lost children. 
 And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy My brothers. 
 And you will know I am the Lord when I lay My vengeance upon you."
-<i>Just not a good idea...</i>
+<i>Just not a good idea...</i></p>
 </div>
 
 
