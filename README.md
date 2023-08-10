@@ -49,7 +49,7 @@ So I set up some Admins who have control of SLA.</p>
 However when you keep your environment running it'll cost you. 
 So essentially here we go back into the Azure and delete our virtual machines and resource group.
 Make sure you delete it all.</p>  
-<img src="18.png">
+<img src="18.png"><br>
 <br>
 <p>The last thing you want to do is make a mistake and have Jules Winnfield knocking on your door at 7am and begin to recite 
 <i>"The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men. 
