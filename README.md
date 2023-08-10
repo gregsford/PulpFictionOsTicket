@@ -1,5 +1,7 @@
 <div align="center">
   <img src="pf.jpg">
+  <h1>Pulp Fiction osTicket</h1>
+<h3><i>Marcellus Wallace has a new way of handling his business... Through open source tickets!</i></h3>
 <img src="1.png">
 <img src="2.png">
 <img src="3.png">
@@ -18,8 +20,7 @@
 <img src="16.png">
 <img src="17.png">
 <img src="18.png">
-<h1>Pulp Fiction osTicket</h1>
-<h3><i>Marcellus Wallace has a new way of handling his business... Through open source tickets!</i></h3>
+
 
 ***2***For this demonstration I decided to base an open source ticket system and applied it to the movie Pulp Fiction.  
 I will walkthrough the process of setting up OsTicket through virtual machines in a cloud environment using Microsoft Azure.
