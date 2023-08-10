@@ -2,7 +2,10 @@
   <img src="pf.jpg">
   
   <h1>Pulp Fiction osTicket</h1>
-<h3><i>Marcellus Wallace has a new way of handling his business... Help Desk tickets!</i></h3>
+  <h3><i>Marcellus Wallace has a new way of handling his business... Help Desk tickets!</i></h3>
+  <br>
+  <p>For this demonstration I decided to base an open source ticket system and applied it to the movie Pulp Fiction.  
+I will walkthrough the process of setting up OsTicket through virtual machines in a cloud environment using Microsoft Azure.</p>
   
 <img src="1.png">
 <img src="2.png">
@@ -23,17 +26,11 @@
 <img src="17.png">
 <img src="18.png">
 
-
-***2***For this demonstration I decided to base an open source ticket system and applied it to the movie Pulp Fiction.  
-I will walkthrough the process of setting up OsTicket through virtual machines in a cloud environment using Microsoft Azure.
-
-***3***Video Demonstration
-YouTube: What if the people in Pulp Fiction used Help Desk tickets? 
-
 ***2***Environments and Technologies Used
 Microsoft Azure
 osTicket software
 Remote Desktop
+
 
 ***2***Operating Systems Used
 Windows 10
