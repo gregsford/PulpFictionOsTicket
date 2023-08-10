@@ -8,7 +8,7 @@
 I will walkthrough the process of setting up OsTicket through virtual machines in a cloud environment using Microsoft Azure.</p>
 
 <h3>Environments and Technologies Used:</h3>
-<ul>
+<ul style="list-style-type:none">
 <li>Microsoft Azure</li>
 <li>osTicket software</li>
 <li>Remote Desktop</li>
@@ -16,7 +16,9 @@ I will walkthrough the process of setting up OsTicket through virtual machines i
 </ul>
 
 <h3>Operating Systems Used:</h3>
-<ul>Windows 10</ul>
+<ul style="list-style-type:none">
+  <li>Windows 10</li>
+</ul>
 
 <h4>Step 1 - Setting up an environment in Microsoft Azure.</h4>
 <p>In this step I set up a Resource Group and create a virtual machine.</p> 
