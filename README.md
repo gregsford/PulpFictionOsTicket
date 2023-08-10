@@ -1,7 +1,9 @@
 <div align="center">
   <img src="pf.jpg">
+  
   <h1>Pulp Fiction osTicket</h1>
-<h3><i>Marcellus Wallace has a new way of handling his business... Through open source tickets!</i></h3>
+<h3><i>Marcellus Wallace has a new way of handling his business... Help Desk tickets!</i></h3>
+  
 <img src="1.png">
 <img src="2.png">
 <img src="3.png">
