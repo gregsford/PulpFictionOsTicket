@@ -1,22 +1,22 @@
 <img src="pf.jpg">
-<img src="images/1.jpg">
-<img src="images/2.jpg">
-<img src="images/3.jpg">
-<img src="images/4.jpg">
-<img src="images/5.jpg">
-<img src="images/6.jpg">
-<img src="images/7.jpg">
-<img src="images/8.jpg">
-<img src="images/9.jpg">
-<img src="images/10.jpg">
-<img src="images/11.jpg">
-<img src="images/12.jpg">
-<img src="images/13.jpg">
-<img src="images/14.jpg">
-<img src="images/15.jpg">
-<img src="images/16.jpg">
-<img src="images/17.jpg">
-<img src="images/18.jpg">
+<img src="1.jpg">
+<img src="2.jpg">
+<img src="3.jpg">
+<img src="4.jpg">
+<img src="5.jpg">
+<img src="6.jpg">
+<img src="7.jpg">
+<img src="8.jpg">
+<img src="9.jpg">
+<img src="10.jpg">
+<img src="11.jpg">
+<img src="12.jpg">
+<img src="13.jpg">
+<img src="14.jpg">
+<img src="15.jpg">
+<img src="16.jpg">
+<img src="17.jpg">
+<img src="18.jpg">
 <h1>Pulp Fiction osTicket</h1>
 <h3><i>Marcellus Wallace has a new way of handling his business... Through open source tickets!</i></h3>
 
