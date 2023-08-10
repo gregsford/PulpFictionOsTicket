@@ -8,12 +8,10 @@
 I will walkthrough the process of setting up OsTicket through virtual machines in a cloud environment using Microsoft Azure.</p>
 
 <h3>Environments and Technologies Used:</h3>
-<ul style="list-style-type:none">
-<li style="list-style-type:none">Microsoft Azure</li>
-<li style="list-style-type:none">osTicket software</li>
-<li>Remote Desktop</li>
-<li>HeidiSQL</li>
-</ul>
+Microsoft Azure
+>osTicket software
+Remote Desktop
+HeidiSQL
 
 <h3>Operating Systems Used:</h3>
 <ul style="list-style-type:none">
