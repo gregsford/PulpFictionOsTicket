@@ -78,7 +78,7 @@ So essentially here we go back into the Azure and delete our Virtual Machine and
 Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of the darkness, 
 for he is truly his brother's keeper and the finder of lost children. <br>
 And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy My brothers. 
-And you will know I am the Lord when I lay My vengeance upon you."</i><br>
+And you will know my name is the Lord when I lay My vengeance upon thee."</i><br>
 </div>
 
 
