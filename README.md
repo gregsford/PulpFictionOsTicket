@@ -79,7 +79,6 @@ Blessed is he who, in the name of charity and good will, shepherds the weak thro
 for he is truly his brother's keeper and the finder of lost children. 
 And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy My brothers. 
 And you will know I am the Lord when I lay My vengeance upon you."</i><br>
-It's just not a good idea.</p>
 </div>
 
 
